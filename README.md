@@ -1,4 +1,4 @@
-URL: https://julianbarazzutti.github.io/Palindrome-Checker/
+**URL**: https://julianbarazzutti.github.io/Palindrome-Checker/
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
