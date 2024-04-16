@@ -31,7 +31,7 @@ body {
 
 #check-btn {
   padding: 8px 20px;
-  background-color: #708090;
+  background-color: #005566;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -40,7 +40,7 @@ body {
 }
 
 #check-btn:hover {
-  background-color: #005566;
+  background-color: #003566;
 }
 
 #result {
